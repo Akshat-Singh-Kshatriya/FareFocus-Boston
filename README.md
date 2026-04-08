@@ -47,8 +47,4 @@ The project utilizes a multi-stage machine learning pipeline:
  ```bash
    pip install -r requirements.txt
    ```
-### 3. Run the Notebook
-```bash
-   jupyter notebook uber_data_analytics.ipynb
-```
  
