@@ -40,7 +40,7 @@ The project utilizes a multi-stage machine learning pipeline:
 
 ### 1. Clone the repo:
    ```bash
-   git clone [https://github.com/yourusername/FareFocus-Boston.git](https://github.com/Akshat-Singh-Kshatriya/FareFocus-Boston.git)
+   git clone [https://github.com/Akshat-Singh-Kshatriya/FareFocus-Boston.git](https://github.com/Akshat-Singh-Kshatriya/FareFocus-Boston.git)
    cd FareFocus-Boston
    ```
 ### 2. Install Dependies 
