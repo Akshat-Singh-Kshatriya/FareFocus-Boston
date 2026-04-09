@@ -2,7 +2,7 @@
 
 FareFocus is a high-performance predictive analytics project that estimates Uber and Lyft fares in Boston, MA. By leveraging a dataset of over **630,000 rides**, this project demonstrates how transitioning from linear statistical baselines to advanced ensemble gradient boosting can slash prediction error by **51%**.
 
-## 📊 Numerical Achievements & Results
+## Numerical Achievements & Results
 
 The primary goal was to minimize the variance between predicted and actual fares. The transition from a linear baseline (Ridge Regression) to a boosted architecture (XGBoost) yielded the following results:
 
@@ -20,7 +20,7 @@ The primary goal was to minimize the variance between predicted and actual fares
 
 > **Note:** While the Stacking Ensemble (Random Forest + XGBoost) provided a robust architecture, the optimized XGBoost model alone achieved the most significant leap in performance relative to computational cost.
 
-## 🧠 Technical Architecture
+## Technical Architecture
 
 The project utilizes a multi-stage machine learning pipeline:
 
@@ -31,12 +31,12 @@ The project utilizes a multi-stage machine learning pipeline:
 
 
 
-## 🛠️ Tech Stack
+## Tech Stack
 * **Core:** Python
 * **Data Science:** Pandas, NumPy, Scikit-Learn
 * **Data Source:** [Uber and Lyft Dataset (Boston, MA)](https://www.kaggle.com/datasets/brllrb/uber-and-lyft-dataset-boston-ma)
 
-## 🚀How to Run in your System
+## How to Run in your System
 
 ### 1. Clone the repo:
    ```bash
